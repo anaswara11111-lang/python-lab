@@ -1,0 +1,5 @@
+print("Anaswara")
+print("MCA")
+print("MES College of Engineering")
+a=input("Enter the name")
+print(a)

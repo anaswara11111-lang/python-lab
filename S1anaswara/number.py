@@ -1,0 +1,5 @@
+a=int(input("enter a number:"))
+print("increment value")
+print(a+5)
+print("decrement value")
+print(a-3)
